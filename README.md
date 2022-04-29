@@ -2,6 +2,10 @@
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
+## Quickstart notes
+`yarn rw dev` --> Start server and client in development mode
+`yarn rw prisma studio` --> Start db studio
+
 > **Prerequisites**
 >
 > - Redwood requires [Node.js](https://nodejs.org/en/) (>=14.19.x <=16.x) and [Yarn](https://yarnpkg.com/) (>=1.15)
